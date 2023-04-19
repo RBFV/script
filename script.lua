@@ -39,5 +39,6 @@ button1.MouseButton1Click:Connect(function()
 end)
 
 button2.MouseButton1Click:Connect(function()
+        
     print("Button 2 was clicked!")
 end)
