@@ -15,5 +15,5 @@ button.TextSize = 14
 -- Connect a function to the button's click event
 button.MouseButton1Click:Connect(function()
     -- Handle the button click event here
-    button.Name = 'clicked'
+    button.Text = 'clicked'
 end)
